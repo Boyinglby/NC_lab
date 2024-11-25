@@ -1,1 +1,1 @@
-# ADL_project
+# Store labs of Neuromophic computing course
